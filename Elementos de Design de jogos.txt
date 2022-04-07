@@ -1,0 +1,87 @@
+Elementos de Design dos Jogos
+
+Jogo de corrida multiplayer:
+
+Personagens
+- Carros (PCs - Playing Character -> personagem jogável)
+- Obstáculos (NPCs - Non-Playing Character -> personagem não jogável)
+- Combustível (NPCs - Non-Playing Character -> personagem não jogável)
+- Moedas (NPCs - Non-Playing Character -> personagem não jogável)
+
+Objetivos
+- Chegar até a linha de chegada -> Em primeiro lugar com mais pontos
+
+Regras
+- Não pode enconstar nos obstáculos
+- Não pode encontar no outro carro
+- O combustível vai diminuindo à medida que a gente vai andando
+- Conseguimos recuperar o combustível ao pegar o combustível
+- Quando a gente pega moeda, a pontuação aumenta
+- O jogo acaba quando o jogador cruza a linha de chegada OU
+- Quando o jogador fica sem vida OU
+- Quando o jogador fica sem combustível
+
+Equilíbrio
+- Mais difícil: obstáculos, vida e combustível
+- Mais fácil: tanques de combustível
+
+Adaptabilidade:
+- Adicionou obstáculos
+
+Elementos do acaso:
+- Ícones (combustível, obstáculos e moedas)
+
+Elementos de habilidade:
+- O jogador deve ir rápido E desviar dos obstáculos
+
+Feedback:
+- Quando ele está na frente do seu oponente
+- Sistema de pontuação
+- Nível de vida
+- Nível de combustível
+
+História:
+- Dois velhos amigos que resolveram entrar em um evento de corrida de
+carros
+- Velozes e furiosos
+
+
+Jogo - Red Dead Redemption II
+
+Personagens
+- Jogador principal: Arthur (PC), John (PC no epílogo)
+- Amigos do Arthur (NPCs)
+- Mocinhos e vilões
+
+Objetivos
+- Sobreviver
+
+Regras
+- Sistema de vida
+- Sistema de xp (off e online)
+
+Equilíbrio
+- Difícil: no meio da aventura rolam alguns crimes e tem fugir da polícia
+- Fácil: sistema de mira com câmera lenta e marcação do alvo, tem itens
+- O jogador fica magro se come pouco e gordo se come demais, a barba cresce
+
+Adaptabilidade:
+- As missões vão ficando mais difíceis
+- No final do jogo o jogador mais difícil de ser derrotado é o Mike, amigo dele
+
+Elementos do acaso:
+- Consegue achar um NPC pedindo socorro
+- Ajudar os NPCs num geral (sendo roubados e tal)
+
+Elementos de habilidade:
+- Mira
+
+Feedback:
+- Xp, vida, itens colecionáveis
+
+História:
+- Final do Velho Oeste
+- Um grupo de amigos tem vários desafios para resolver
+- Sobrevivência - acampamento
+- Missões
+- Jogo mais realista
